@@ -1,2 +1,2 @@
 # Radioactivity-Detector_project
-Projet about Particle Physics!
+Project about Particle Physics!
